@@ -61,6 +61,21 @@ These are **research references**, not brand or format templates. Their audience
 
 The eventual goal is **eight strong stories a day**, but the current research output is 18 candidates. Production cadence and monetization remain open.
 
+## File organization
+
+The local master is `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`. Beta 01 lives in `FUTURE MAGAZINE 000 beta 01/` under that root. Use the existing structure:
+
+- `00_BRAND_ASSETS` at the project root holds official logos and reusable brand resources.
+- `01_EDITORIAL` in each issue holds the Markdown editorial master, headlines, captions, sources and platform copy. The Beta 01 editorial master is `FUTURE_MAGAZINE_BETA_01_EDITORIAL.md`.
+- `02_LOVART_MOCKUPS` holds working artwork, references and drafts.
+- `03_FINAL` holds Bill-approved PNGs, PDFs and other approved deliverables.
+
+1. Inspect the existing folders before saving. Use the Desktop master and its existing issue folders. Documents/ChatGPT and Downloads are temporary work locations.
+2. Save approved deliverables directly to their designated master folder. Keep one canonical final copy per deliverable and keep working files out of `03_FINAL`.
+3. After saving, verify the filename, destination, version, contents and duplicates. Report the actual saved path.
+4. Get Bill’s approval before overwriting, moving, deleting or trashing existing files, including temporary copies. Report misplaced files and duplicates before acting.
+5. Ask Bill before adding folders or reorganizing the project.
+
 ## Platform exports and source links — current rules (2026-11-28 HKT)
 
 These decisions supersede older Beta 01 X advice. Keep a canonical, checked source URL for every story in `01_EDITORIAL`; platform presentation is separate from source preservation.
