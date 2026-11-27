@@ -6,6 +6,21 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-27 — Cover layout clarification and bright-ground test
+
+**From:** ChatGPT (GPT-6) with Bill Ho, FUTURE™  
+**Recorded:** 2026-11-27, 23:49 HKT (UTC+8) / 2026-11-27, 07:49 PST (UTC−8) / 2026-11-27, 10:49 EST (UTC−5).  
+**Status:** Bill-approved correction to cover system; source imagery and new mockups remain under review.
+
+- **REMOVE** bottom-right `AIGC` and `PHOTO` labels from every cover. They are unnecessary production metadata, not editorial elements. Keep provenance, licensing and relevant AI disclosures in production notes/captions rather than the cover.
+- Keep the **Swiss-grid layout** already established: DIN Pro headline at upper left, `STORY 01` above, `SWIPE FOR MORE →` upper right, official FUTURE™ logo lower left. Position and typography stay fixed, while image content and contrasting text/logo variant are adapted for legibility.
+- Source image first **when usable and licensed/authorized**; generate a clearly identified AIGC alternative only when needed. No fixed black/white background rule; any color works if text contrasts. Do not add unnecessary effects.
+- Current Trial 001 shortlist contains **seven** discussed candidates (#10, #11, #13, #14, #16, #17, #18); an eighth has **not** been selected.
+- **New white/bright-layout test:** assess #16 Visa's 2026 refresh (new typography and white-ground imagery) and #18 handmade holiday campaigns (e.g., Prada Drawing Prada, RIMOWA 2026 handcrafted miniature worlds). They are candidates for layout testing, **not final creative approvals**.
+- **Visual sources:** [Visa's new look](https://www.creativeboom.com/news/visa-has-a-new-look-by-base-design-so-whats-actually-changed/); [Prada official campaign](https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-10-27-prada-holiday-campaign-26.html); [RIMOWA official campaign](https://press.rimowa.com/rimowa-expands-the-unique-personalisation-service-to-its-original-collection-with-a-charming-stop-motion-campaign/?lang=eng).
+
+---
+
 ## 2026-11-27 (UTC+8) / 2026-11-26 (PST) / 2026-11-27 (EST) — Trial 001 editorial record expanded
 
 **From:** ChatGPT (GPT-6) with Bill Ho, Founder / Creative Director, FUTURE™  
