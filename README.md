@@ -16,7 +16,7 @@
 5. **Before making changes to existing files, ask Bill** about moves, overwrites, deletion, Trash, renaming, folder reorganizations or publishing. Never treat a draft as approval.
 6. **After any permitted save, open/check the actual file**, verify its path, contents and version; report **what was verified** and anything still unverified. Never claim completion from an intended action.
 
-**Known stale document:** Desktop `COVER_WORKFLOW.md` describes the *old*, superseded `FUTURE_MAGAZINE_001` + external logo-compositing process. **Do not follow those steps for current issues.** It remains historical until Bill authorizes alignment.
+**Retired:** The obsolete Desktop `COVER_WORKFLOW.md` (old `FUTURE_MAGAZINE_001` + external compositor instructions) was moved to Trash on 2026-11-27 PST with Bill's approval. **This README is the active workflow.**
 
 ## Why this exists
 
@@ -113,7 +113,7 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 | **Design / future issues** | Beta 01 black caption footer worked functionally but Bill **dislikes the black bar**. **Keep the Beta 01 PDF unchanged.** For new issues, plan caption and discreet source placement within the **4:5 card** before designing; test a complete card at phone size before full batch export. A separate story page remains an option to evaluate, **not an approved default**. |
 | **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
 
-**Local workflow conflict, directly verified:** root `COVER_WORKFLOW.md` still directs agents to `FUTURE_MAGAZINE_001` and the external logo compositor. Those steps are **superseded** by this README. Do not follow them; align that file only with Bill's permission.
+**Legacy workflow retired:** Root `COVER_WORKFLOW.md` was moved to Trash; its superseded compositor and `FUTURE_MAGAZINE_001` directions must not be used. The fallback script in `00_BRAND_ASSETS/` remains available if separately authorized.
 
 ## Roles and approval gates
 
