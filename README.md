@@ -49,15 +49,14 @@ These are **working criteria**, not locked rules.
 
 These are **research references**, not brand or format templates. Their audiences and economics are not evidence that FUTURE MAGAZINE will achieve the same outcomes.
 
-## Working model — research to selection
+## Editorial and production workflow
 
-1. **Discover:** ChatGPT currently prepares **18 distinct story candidates daily**, across a broad editorial range.
-2. **Investigate:** Find primary sources and corroboration; understand how an idea works and why it matters. Verify dates, claims and claims of virality.
-3. **Present:** Give each story a short, engaging but accurate angle, concise explanation, **direct original-source URL**, supporting source where useful, **visual/media URL**, date and uncertainty/verification note.
-4. **Judge:** Bill quickly responds **Keep / Pass / Maybe**, often by number alone, and may contribute his own discoveries. No expectation of detailed daily critique.
-5. **Learn:** Identify patterns in feedback, but **do not turn individual choices into permanent rules**. Record meaningful editorial changes for reuse by other AI collaborators.
-6. **Package:** For selected stories, develop cards, captions, translations and platform adaptations, with Bill retaining editorial and creative approval.
-7. **Publish:** Later-phase experiment only; **nothing is published automatically**.
+1. **Discover and verify.** ChatGPT prepares 18 distinct story candidates daily across a broad editorial range. For each, include a concise angle, a direct original-source URL, a visual or media link, the date, supporting sources where useful, and any verification gaps. Check dates, claims, and evidence of virality.
+2. **Select.** Bill marks candidates **Keep / Pass / Maybe** and may bring his own discoveries. Carry selected stories into editorial development. Record meaningful editorial decisions and treat individual choices as feedback.
+3. **Write and approve the copy together.** Bill and the AI collaborator (preferably ChatGPT for copywriting, or Codex) draft and refine two pieces for each selected story. The **headline** goes on the cover. The **body copy** goes in the social post caption. Save both in `01_EDITORIAL` for the issue and get Bill's approval on both before starting the mockup. Return any proposed headline changes to Bill for review.
+4. **Hand off to Lovart.** Send the approved headline, visual direction, and image references or approved assets. Keep the post body copy in the editorial file. Use the working 1080 × 1350 DIN Pro grid, leave the lower-left logo area clear, and save Lovart exports in `02_LOVART_MOCKUPS`.
+5. **Composite and review.** Apply the original transparent FUTURE™ logo using the contrast variant that fits the lower-left image area. Place the visible mark at x54, 205 px wide, with its bottom edge aligned to y1296. Check the headline, logo placement, and legibility at phone size. Save the finished artwork in `03_FINAL` and review it with Bill alongside the approved caption.
+6. **Publish only with Bill's approval.** Publishing is a later-phase experiment and requires separate authorization for the platform and post.
 
 The eventual goal is **eight strong stories a day**, but the current research output is 18 candidates. Production cadence and monetization remain open.
 
@@ -65,7 +64,7 @@ The eventual goal is **eight strong stories a day**, but the current research ou
 
 - **Candidate master carousel ratio:** **4:5 portrait (1080 × 1350 px)** for Instagram; evaluate platform-specific alternatives for Rednote and other channels. Earlier square and 3:4 possibilities were discussed but not selected.
 - **Typography:** **DIN Pro**, consistent with FUTURE™'s existing visual work.
-- **Identity:** Use Bill's **official FUTURE™ logo artwork**, never AI-invented replacements. Additional transparent/white and chrome-F assets are pending.
+- **Identity:** Use Bill's **official FUTURE™ logo artwork**, never AI-invented replacements. The Mac production folder contains the original transparent black, white, and chrome-F cover variants.
 - **Cover:** Strong actual project imagery, a concise hook and clear editorial hierarchy.
 - **Supporting cards:** Add substance without turning the story into a text-heavy article.
 - **Template:** Bill may supply the first master card. AI should then extract a repeatable production system, test it and refine it under Bill's direction. **No design has been approved or locked.**
