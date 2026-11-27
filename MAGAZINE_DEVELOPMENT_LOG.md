@@ -6,6 +6,19 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 — X navigation correction; Instagram deferred
+
+**Recorded:** 2026-11-28 **06:17 HKT (UTC+8)** / 2026-11-27 **14:17 PST (UTC−8)** / 2026-11-27 **17:17 EST (UTC−5)**. Documentation time; not a claim about when earlier actions occurred.  
+**Source:** Bill's direct correction during Beta 01 review.
+
+- **X is a vertical thread.** Readers scroll **down** through posts; they do **not** swipe left from image to image. A cover's `SWIPE FOR MORE →` cue is therefore **wrong for X**. For all **future X-specific exports**, omit carousel/swipe directions and use navigation only if it reflects the actual thread behavior.
+- **Beta 01 stays intact as an exception** unless Bill approves re-exporting: retain the seven images labeled `Source` and the existing recorded files. The navigation lesson does **not** authorize immediate edits to previously finalized artwork.
+- **Instagram has not yet been posted or tested.** After Bill's break, evaluate its actual carousel/navigation behavior, artwork ratio, story/caption structure and publishing approach before setting requirements or creating exports. No Instagram work or scheduling was authorized now.
+- Keep platform-specific design choices distinct: **X scrolling thread ≠ LinkedIn document carousel ≠ Instagram (to test)**. The README is the active cross-AI instruction source.
+
+---
+
+
 ## 2026-11-28 HKT / 2026-11-27 PST and EST — Beta 01 verified Desktop consolidation and final platform decisions
 
 **Recorded:** 2026-11-28 **05:59 HKT (UTC+8)** / 2026-11-27 **13:59 PST (UTC−8)** / 2026-11-27 **16:59 EST (UTC−5)**. This is the documentation timestamp, not the precise time Codex performed the file moves.  
