@@ -6,6 +6,15 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 (Shanghai) / 2026-11-27 (Los Angeles and New York) — Platform copy and publishing workflow
+
+**Recorded** 2026-11-28 00:27 Asia/Shanghai (UTC+8) / 2026-11-27 08:27 PST (UTC−8) / 2026-11-27 11:27 EST (UTC−5).
+
+- Bill confirmed English for global platforms and Chinese for China platforms. Bill and ChatGPT or Codex approve the cover headline and post caption together before Lovart. Lovart receives the approved headline and visual direction. The caption stays with the post.
+- After the official FUTURE™ logo is applied, Bill reviews the finished artwork and its matching caption together and publishes manually. The [README](README.md#editorial-and-production-workflow) records the complete workflow.
+
+---
+
 ## 2026-11-27 — Cover layout clarification and bright-ground test
 
 **From:** ChatGPT (GPT-6) with Bill Ho, FUTURE™  
