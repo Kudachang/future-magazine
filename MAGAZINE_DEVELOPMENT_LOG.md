@@ -6,6 +6,23 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 HKT / 2026-11-27 PST, EST — Codex X/LinkedIn workflow correction (latest decision)
+
+**Recorded:** 2026-11-28 **05:41 HKT** (UTC+8) / 2026-11-27 **13:41 PST** (UTC−8) / 2026-11-27 **16:41 EST** (UTC−5). This is the **log entry time**, not an invented timestamp for the prior Codex action.  
+**Source:** Bill's direct instruction quoting Codex's confirmed cleanup and export policy. **This overrides the older ambiguous X source-label discussion below.**
+
+- **X / Beta 01 — explicit exception:** **Retain the seven X images labeled `Source`**. The earlier seven-image set labeled `Read the source` **was moved to Trash**, per Codex's report. No Beta 01 retroactive redesign.
+- **X / future issues:** One story image and one compact caption per post, all posts linked into **one thread**. **No on-image `Source` label; no separate article URL in the X caption.** Credit the reporting source naturally within the caption when it fits. Keep the full, verified original URL in `01_EDITORIAL` for traceability.
+- **LinkedIn:** Embed a working clickable `Source` link **on each PDF page**. If the accompanying LinkedIn post contains article links, show **full, visible URLs**; a linked publisher name pasted from Markdown did not retain its hyperlink.
+- **File organization:** File approved production assets in the **main magazine project**; create separate platform export sets only if technically necessary; keep **one canonical final copy** of each deliverable. Never delete or consolidate other files without Bill's approval.
+- **Standing layout feedback:** Bill does **not** like the black caption/footer bar on the Beta 01 LinkedIn PDF. For Beta 02, plan content/link placement before rendering and test 4:5 at phone size. This is a learning, **not a request to redesign Beta 01**.
+- **Communication preference clarified:** Cross-AI handoffs must carry the prescribed AI names and three-zone timestamp header **inside the copy-ready handoff**; normal conversation directly with Bill does **not** require that formal header. Do not mix the two formats.
+
+**Canonical operating rules:** [README — Platform exports and source links](README.md#platform-exports-and-source-links--current-rules-2026-11-28-hkt). Earlier log entries are retained as historical context.
+
+---
+
+
 ## 2026-11-28 (HKT) / 2026-11-27 (PST, EST) — BETA 01 production, publishing and lessons
 
 **From:** Bill Ho + ChatGPT (GPT-6), incorporating Codex and Lovart handoffs.  
