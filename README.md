@@ -5,6 +5,19 @@
 **Founder / Creative Director / Editor:** Bill Ho  
 **Core principle:** **AI handles the work. Bill handles the taste.**
 
+## START HERE — mandatory handoff checklist
+
+**Read this before any FUTURE™ MAGAZINE task.** This README defines current operating rules; the [development log](MAGAZINE_DEVELOPMENT_LOG.md) provides dated history. Bill's latest direct instruction overrides either document.
+
+1. **Locate the work:** inspect the **Desktop master** at `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/` and the correct issue subfolder *before* saving or editing. **Do not create a parallel project in Documents/ChatGPT or Downloads.**
+2. **Use the exact canonical deliverable paths in the file map below.** Do not assume everything final is in `03_FINAL`: **Beta 01's LinkedIn PDF and X exports are under `01_EDITORIAL/`.**
+3. **Respect approved content and platforms:** use the editorial master; preserve source URLs and facts. **Beta 01's X images retain `Source`; later issues do not.** LinkedIn PDF sources must be clickable.
+4. **Production:** ChatGPT/Codex for editorial and QA, **Lovart for covers and official logo**, Codex/desktop tools for file/export work only as needed. **Don't run the older compositor by default.**
+5. **Before making changes to existing files, ask Bill** about moves, overwrites, deletion, Trash, renaming, folder reorganizations or publishing. Never treat a draft as approval.
+6. **After any permitted save, open/check the actual file**, verify its path, contents and version; report **what was verified** and anything still unverified. Never claim completion from an intended action.
+
+**Known stale document:** Desktop `COVER_WORKFLOW.md` describes the *old*, superseded `FUTURE_MAGAZINE_001` + external logo-compositing process. **Do not follow those steps for current issues.** It remains historical until Bill authorizes alignment.
+
 ## Why this exists
 
 FUTURE™ is a multidimensional, one-person creative studio. Creativity can include creating films, products and ideas—but also discovering, selecting, framing and publishing interesting work by others.
@@ -66,7 +79,7 @@ The eventual goal is **eight strong stories a day**, but the current research ou
 **The only local master project root:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`  
 **Beta 01 issue root:** `FUTURE MAGAZINE 000 beta 01/`
 
-Codex reported moving the files, inspecting their contents and **verifying the copies at the destinations below**. These are local Desktop paths supplied and confirmed by Bill/Codex; GitHub does not itself store these large artwork/PDF exports.
+The Desktop folder listing was **inspected directly in this session** and confirms the canonical relative paths below (as well as Codex's earlier report). GitHub documents the workflow; the artwork and PDF remain on Bill's Desktop.
 
 | Canonical relative location within Beta 01 | Contents and use |
 |---|---|
@@ -74,9 +87,9 @@ Codex reported moving the files, inspecting their contents and **verifying the c
 | `01_EDITORIAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf` | **One final seven-page LinkedIn PDF** with clickable `Source` links. **This is the PDF to upload.** |
 | `01_EDITORIAL/X/Story-01-Source.png` … `Story-07-Source.png` | **Seven Beta 01 X images**, in story order, retaining the `Source` label. |
 | `01_EDITORIAL/X/Post-01.txt` … `Post-07.txt` | Seven corresponding **historical X drafts**, not proof of final approved/published copy; drafts still contain source URLs. |
-| `00_BRAND_ASSETS/` | Official FUTURE™ logo assets and fallback compositor, under the existing issue structure where present. |
+| `../00_BRAND_ASSETS/` (relative to Beta 01) | Shared official FUTURE™ logos and fallback compositor, located at **project root**, not inside Beta 01. |
 | `02_LOVART_MOCKUPS/` | Lovart drafts, working plates and layout experiments. |
-| `03_FINAL/` | Other specifically approved issue artwork as already filed; **do not assume the final LinkedIn PDF is here**. |
+| `03_FINAL/` | Reserved for other approved issue exports; **currently empty except for a macOS metadata file** in the inspected Beta 01 folder. **Do not move the LinkedIn PDF here**. |
 
 Codex reported that the now-empty X export folder in `Documents/ChatGPT` was removed. Three superseded PDFs, the prior `Read the source` X images, duplicate logos/PDF and obsolete ChatGPT handoff were moved to Trash. **No further file cleanup is authorized by this README.** The separate `FUTURE_MAGAZINE_001` folder is not Beta 01.
 
@@ -100,7 +113,14 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 | **Design / future issues** | Beta 01 black caption footer worked functionally but Bill **dislikes the black bar**. **Keep the Beta 01 PDF unchanged.** For new issues, plan caption and discreet source placement within the **4:5 card** before designing; test a complete card at phone size before full batch export. A separate story page remains an option to evaluate, **not an approved default**. |
 | **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
 
-**Local workflow note:** `COVER_WORKFLOW.md` reportedly still describes an older cover/compositor process. **Flag it for alignment** before the next production cycle, but don't edit the local file without authorization.
+**Local workflow conflict, directly verified:** root `COVER_WORKFLOW.md` still directs agents to `FUTURE_MAGAZINE_001` and the external logo compositor. Those steps are **superseded** by this README. Do not follow them; align that file only with Bill's permission.
+
+## Roles and approval gates
+
+- **Bill:** final editor/Creative Director; selects stories and approves copy, design, file operations that alter existing material, and publication.
+- **ChatGPT / Codex:** fact-check, draft agreed editorial variants, maintain the source inventory and production log; inspect before editing. Codex may assist with file management and platform exports when authorized.
+- **Lovart:** produces artwork, typography and deterministic **official logo** placement. Do not add a second logo or regenerate its text in an image tool.
+- **Every AI:** read the master README and current issue's editorial master; save only in the canonical location; label drafts vs finals; check working links, phone-size readability, source/image rights and the final export before handoff. **Never assume a page is published because a draft is assembled.**
 
 ## Visual development — provisional
 
@@ -109,7 +129,7 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 - **Identity:** Use Bill's **official FUTURE™ logo artwork**, never AI-invented replacements. The Mac production folder contains the original transparent black, white, and chrome-F cover variants.
 - **Cover:** Strong actual project imagery, a concise hook and clear editorial hierarchy.
 - **Supporting cards:** Add substance without turning the story into a text-heavy article.
-- **Template:** Bill may supply the first master card. AI should then extract a repeatable production system, test it and refine it under Bill's direction. **No design has been approved or locked.**
+- **Template:** Bill may supply the first master card. AI should then extract a repeatable production system, test it and refine it under Bill's direction. The seven **Beta 01 English covers were approved**, but no permanent cross-issue design system is locked.
 - **Media rights:** AI should identify provenance, reuse permissions and feasible alternatives. Attribution is not permission. An AI-generated concept image must not be passed off as documentary evidence.
 
 ## Success measures — to be tested
