@@ -1,56 +1,89 @@
 # FUTURE™ MAGAZINE — DEVELOPMENT LOG
 
-Chronological development journal. **Most recent first.** This records experiments and current thinking, not retrospective claims of finalized strategy.
+Chronological development journal, most recent first. Distinguish Bill's stated opinions, ChatGPT's editorial interpretation, and unreviewed items. **A story not commented on is not automatically rejected.** This is an evolving experiment, not publication approval.
 
-**Format:** `## YYYY-MM-DD — Activity / Decision Title`; author/model; status, observations, decisions, next steps and source links.  
-**Timestamp standard:** Hong Kong/Shanghai **UTC+8**, Pacific **PST/PDT**, Eastern **EST/EDT**, using actual local date/time when known. Do not invent a precise hour when unavailable. Earlier discussions retain their documented date.
+**Timestamp rule:** Every new update records Asia/Shanghai (UTC+8), Los Angeles (PST/PDT), and New York (EST/EDT), with the calendar date in each. When an exact historical clock time is unknown, record the known discussion date and explicitly say the corresponding local date/time cannot be reconstructed. Never invent an event timestamp.
 
 ---
 
-## 2026-11-26 — Trial 001 reviewed; editorial and visual brief refined
+## 2026-11-27 (UTC+8) / 2026-11-26 (PST) / 2026-11-27 (EST) — Trial 001 editorial record expanded
 
 **From:** ChatGPT (GPT-6) with Bill Ho, Founder / Creative Director, FUTURE™  
-**Discussion date:** November 26, 2026 (US Pacific, PST) / November 27, 2026 (Shanghai, UTC+8, and US Eastern, EST, depending on actual discussion hour). Exact time not recorded here.  
-**Status:** Exploration. Seven story candidates marked as interesting; **not** final publication approvals.
+**This revision:** 2026-11-27 **15:48 UTC+8** / 2026-11-26 **23:48 PST** / 2026-11-27 **02:48 EST**. These are **revision timestamps**, not times of Bill's earlier remarks.  
+**Original Trial 001 discussion:** November 26, 2026 in Pacific time. The exact time for each comment was not recorded, so its simultaneous Shanghai and Eastern dates/times cannot be verified individually.  
+**Status:** Research and creative-development test; 18 candidates presented; Bill expressed interest in **#10, #11, #13, #14, #16, #17, #18**. None approved for publication.
 
-### What happened
+### Complete Trial 001 shortlist — what was shown, selection, rationale
 
-- Conducted a first research run of **18 candidates**. Bill discussed #10, #11, #13, #14, #16, #17 and #18 as worth attention, subject to further verification, better visuals and stronger angles.
-- **#10 — T. rex-inspired handbag:** unusual concept attracts attention; product is stronger than dry promotional video. Scientific/material claims need careful qualification. [VML project](https://www.vml.com/work/t-rex-leather).
-- **#11 — GTA-related fan/AI creation:** interesting idea but inadequate lead visual. Distinguish a reported PC adaptation/takedown from experiments attempting an AI-coded GTA-like recreation; these are **not the same project**. [Report on PC project](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two).
-- **#13 — Hand-spun sugar chandelier:** exceptionally strong real-world visual. Original object and process are more compelling than abstract commentary. [Guardian food-art feature](https://www.theguardian.com/food/2026/nov/23/brioche-armchairs-butter-sculptures-and-edible-chandeliers-meet-the-new-food-artists).
-- **#14 — Gravity-based messaging:** surprising scientific experiment, but invisible phenomenon requires clear, accurate illustration. Avoid implying it is a practical Wi-Fi replacement. [University of Queensland news](https://news.uq.edu.au/).
-- **#16 — Visa identity:** Bill recalled the Wieden+Kennedy-era global refresh while managing Visa China; the newer visual update warrants a **2021-versus-2026** comparison rather than reporting it as a first rebrand. [Visa](https://corporate.visa.com/).
-- **#17 — Blade Runner 2099:** the potentially stronger story is the costume/Stone Island connection around Michelle Yeoh's character, not generic show coverage. Investigate original costume-designer or brand sources before publication.
-- **#18 — Handmade advertising:** worth pursuing as a creative counterpoint to synthetic content. A few campaigns do not alone establish a broad industry shift. [Marketing Dive](https://www.marketingdive.com/news/brands-turn-to-handmade-craft-handfuls-of-creators-for-holiday-season/875335/).
+**Legend:** **INTERESTED** = Bill explicitly engaged positively; **NOT ASSESSED** = he gave no clear verdict. “Bill said” is a close paraphrase of his feedback; “AI interpretation” is a separate hypothesis, **not an attributed statement by Bill**. Links are the references supplied during the trial and are **not proof of image-reuse permission**.
 
-### What we learned
+| # | Candidate presented | Response | Bill's reason / observation | ChatGPT's editorial analysis |
+|---|---|---|---|---|
+| 01 | GTA 6's virtual Florida — [reference](https://www.theverge.com/entertainment/1042629/gta-6-city-design) | **NOT ASSESSED** | No specific feedback. | Possible visual worldbuilding story; no preference inferred. |
+| 02 | Hand-drawn internet imagery by Gigi Borgese — [work](https://www.creativeboom.com/inspiration/birds-browser-windows-and-broken-connections-inside-gigi-borgeses-drawings/) | **NOT ASSESSED** | No specific feedback. | Interesting analogue/digital reversal, but Bill did not choose it. |
+| 03 | A.G. Cook's Soulbreaker Codex — [feature](https://www.itsnicethat.com/articles/jacob-hulmston-martin-uhrecky-the-soulbreaker-codex-graphic-design-publication-project-261126) | **NOT ASSESSED** | No specific feedback. | Niche visual/music world; do not infer rejection. |
+| 04 | Offcuts anti-doomscroll magazine — [publication](https://www.offcuts.store/shop) | **NOT ASSESSED** | No specific feedback. | Meta publishing concept; outcome unknown. |
+| 05 | Jake Hollings's cut-paper artwork — [feature](https://www.itsnicethat.com/articles/jake-hollings-drawing-with-scissors-art-discover-241126) | **NOT ASSESSED** | No specific feedback. | Strong creative adaptation narrative; outcome unknown. |
+| 06 | Zero / Verve's fossilised technology branding — [campaign](https://verveagency.com/work/zero-brand-strategy-identity) | **NOT ASSESSED** | No specific feedback. | Clever metaphor but not confirmed as a keeper. |
+| 07 | Tapo camera/video-call device — [product](https://www.tp-link.com/us/home-networking/cloud-camera/tapo-c825/) | **NOT ASSESSED** | No specific feedback. | Product hybrid; outcome unknown. |
+| 08 | Polyend Tracker software access — [announcement](https://polyend.com/whats-up/tracker-the-biggest-update-yet/) | **NOT ASSESSED** | No specific feedback. | Creator ecosystem candidate; licensing qualifications remain. |
+| 09 | Groove OS on low-cost synthesizer — [project](https://www.groove-os.com/buy) | **NOT ASSESSED** | No specific feedback. | Creative reprogramming; no selection inferred. |
+| **10** | **Lab-grown “T. rex leather” handbag** — [VML project](https://www.vml.com/work/t-rex-leather) | **INTERESTED** | “Good”; fresh, unique, surprising, immediately attention-grabbing. The video felt **too dry**. Later Bill favored a simple Drip-style factual headline over advertising wordplay. | Strongest hook is the physical object and extraordinary material claim. Prefer actual product images, direct headline, deeper fact-check; don't accept the disputed genuine-T.-rex-DNA framing uncritically. |
+| **11** | **GTA 6 PC fan project / takedown** — [report](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two) | **INTERESTED (visual unresolved)** | Interesting, but **no strong visual**; suggested a GTA logo with a red prohibition slash. Also recalled seeing a *different* story about AI coding a GTA-like game at lower cost, and asked for research. | A graphic may carry the takedown story, but AI-assisted recreation potentially has a stronger creative angle and demo footage. **Do not conflate** a PC port/takedown with an AI-built imitation. |
+| 12 | Backslanted typography — [initial reference](https://d3buuag9gcp8bb.cloudfront.net/articles/yury-ostromentsky-backslanted-graphic-design-project-251126) | **NOT ASSESSED** | No specific feedback. | Typographic curiosity; no decision. Initial URL needs re-verification before reuse. |
+| **13** | **Edible furniture / hand-spun sugar chandelier** — [Guardian](https://www.theguardian.com/food/2026/nov/23/brioche-armchairs-butter-sculptures-and-edible-chandeliers-meet-the-new-food-artists) | **INTERESTED** | The **hand-spun sugar chandelier looks amazing**; particularly strong visual. | Distinctive, highly legible creative object. The real artwork is the story; do not replace it with generic AI-generated imagery. |
+| **14** | **Messaging using gravity** — [University of Queensland](https://news.uq.edu.au/) | **INTERESTED (visual unresolved)** | Great proof-of-concept: communication beyond electromagnetic signals, but Bill questioned whether it has an impactful visual. | Surprising scientific premise; use accurate, clearly labeled explanatory graphics rather than pretend there's dramatic documentary imagery. Verify experiment limits. |
+| 15 | Azzedine Alaïa's independent fashion calendar — [exhibition](https://fondationazzedinealaia.org/en/expositions/34631/) | **NOT ASSESSED** | No specific feedback. | Creative philosophy story; outcome unknown. |
+| **16** | **Visa identity refresh** — [Visa](https://corporate.visa.com/en/sites/visa-perspectives/innovation/how-do-brands-stay-recognizable-as-the-world-changes.html) | **INTERESTED / QUESTIONED** | Bill recalled the Visa rebrand around 2023 from firsthand experience managing **Visa China** and challenged whether another rebrand really happened. | Professional knowledge triggered a useful verification angle: distinguish the 2021 Wieden+Kennedy-era work/rollout from the 2026 Base Design refresh. This is **curiosity and fact-checking**, not automatic approval for a card. |
+| **17** | **Blade Runner 2099 visual worldbuilding** — [reported interview](https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa) | **INTERESTED** | “There's something there”; Bill separately saw a **Michelle Yeoh costume / Stone Island jacket** story and requested follow-up. | A concrete unexpected fashion–film collaboration is likely a fresher editorial hook than a standard showrunner/worldbuilding interview. Verify the original costume source. |
+| **18** | **Handmade holiday advertising** — [Marketing Dive](https://www.marketingdive.com/news/brands-turn-to-handmade-craft-handfuls-of-creators-for-holiday-season/875335/) | **INTERESTED** | “Definitely.” No further specific selection reason was supplied. | Possible contrast between tangible craft and synthetic imagery. This is **ChatGPT's interpretation**, not Bill's stated explanation. Examine real standout campaigns before claiming an industry-wide trend. |
 
-1. **AI handles the work; Bill handles FUTURE™'s taste.** The aim is a recognizable **brand** editorial sensibility, not a personal-interest diary.
-2. Separate **story value** from **visual value**. Strong, instantly comprehensible images are essential to a social-first magazine.
-3. Research must dig into the subject, find an original source, verify key claims and seek a surprising angle rather than recycle article headlines.
-4. Every candidate should give Bill **clickable original-source and visual/media URLs**. A source list is not optional.
-5. Avoid becoming narrowly focused on design-industry news or generic AI announcements. Better balance: independent creators, gaming/internet behaviour, inventive objects, experimental craft, AIGC and unusual intersections.
-6. Treat copyright/image permissions as part of AI research and production, **not a task handed to Bill by default**. Do not treat crediting the creator as permission to repost.
-7. AI-generated covers explored for the handbag/gravity stories were **not approved**. Do not present synthetic illustrations as images of the actual event.
-8. Proposed production format **4:5 portrait / 1080×1350**; official FUTURE™ logo and **DIN Pro** typography. Design system not locked. Bill may provide a model card for AI to reproduce; additional logo variants pending.
+**Tally:** 18 presented; **7 specifically discussed as interesting**; **11 with no explicit verdict**. This is **not** a 7/18 approval rate or a record of 11 rejections.
+
+### Subsequent headline and fact-check discussion on #10
+
+- Bill prefers Drip's **straightforward, conversational, immediately surprising** headline style over overly clever ad copy.
+- The T. rex handbag is marketed as made from **lab-grown, genetically engineered “T. rex leather”**. The collaborators' precise roles and the distinction between actual dinosaur DNA, reconstructed collagen sequences and lab-grown material must be verified from primary scientific/business sources before publishing.
+- “T. rex-inspired” can undersell the project's claimed biotechnology, while claiming scientists recovered actual T. rex DNA overstates the evidence. Quote the creators' claim with attribution and explain limitations in the caption.
+- Potential factual-style cover treatment remains a **working headline**, not approved final copy.
+
+### Learning — explicit observations versus hypotheses
+
+**Grounded in Bill's expressed feedback**
+1. A startling but understandable **real object** works exceptionally well (#10, #13).
+2. **Visual impact can be a limiting factor** even when a concept is excellent (#11, #14).
+3. Find a **more unexpected angle within an existing topic** (#17 Stone Island; GTA AI recreation).
+4. A strong editor checks claims against firsthand experience, not just press releases (#16).
+5. Direct, factual-looking headline writing beats labored cleverness; fact-check the extraordinary proposition before publishing.
+6. Bill need not provide a reason for every choice; quick judgments are acceptable.
+
+**ChatGPT's working interpretation, subject to further tests**
+- The strongest candidates combine **novelty, immediacy, visual clarity and a second layer of discovery**.
+- Some intriguing but invisible inventions require an illustration strategy rather than a found photograph.
+- The publication must maintain FUTURE™'s editorial identity—not become a personal diary, generic AI feed or trade publication.
+- None of these patterns are a rigid permanent filter after only one trial.
+
+### Production, research and visual requirements
+
+- **Every candidate:** working original **article/project URL**, visual/media link, date, accurate hook, verification/uncertainty note. A general publisher homepage is not a substitute for an article URL.
+- **Media:** assess actual image rights/permissions and source provenance as an AI responsibility; do not assume attribution authorizes reposting.
+- **Design:** 4:5 (1080 × 1350) remains a proposed Instagram-first format; use **DIN Pro** and official FUTURE™ artwork, with logo variants pending. First AI-generated mockups were **not approved**. A Lovart design exploration is separate from final production approval.
+- **Workflow:** daily 18 candidates; Bill shortlists toward eight, adds discoveries of his own, and can respond Keep / Pass / Maybe without extensive critique. No automatic publication.
 
 ### Next
 
-- Continue daily 18-candidate test; Bill may mark Keep/Pass/Maybe with minimal commentary and add discoveries of his own.
-- Investigate the selected stories more deeply, particularly original visual sources and the GTA/Blade Runner angles.
-- Test a reusable carousel template only after Bill establishes or approves a visual benchmark.
-- Keep publication, rights clearance and brand decisions subject to approval.
+- Investigate the seven discussed stories and verify links, real visuals, and scientific/marketing claims.
+- Include direct clickable URLs for all 18 next time; identify licensing status without burdening Bill with routine administrative clearance.
+- Test a repeatable card template once Bill approves the design benchmark. No story or carousel is currently approved for publishing.
 
-**Sources:** Bill's FUTURE MAGAZINE discussion and Trial 001 feedback, November 25–26, 2026; linked sources above.  
-**Outcome:** Progress, not a finalized editorial policy.
+**Record source:** Bill's spoken Trial 001 reactions and subsequent headline discussion in FUTURE MAGAZINE chat, November 2026. The quoted/close-paraphrased reactions are user-supplied; the editorial diagnoses are ChatGPT interpretations.
 
 ---
 
 ## 2026-11-25 — Evolving editorial references and operating hypothesis
 
 **From:** Bill Ho and ChatGPT  
-**Discussion date:** November 25, 2026 (UTC+8). Exact time not documented here.  
+**Discussion date:** 2026-11-25 (UTC+8). Corresponding PST and EST dates and exact times are **unresolved** because the discussion's clock time is not documented. Time zones: UTC+8 / PST (UTC−8) / EST (UTC−5).  
 **Status:** Ongoing exploration.
 
 - **Operating experiment:** one-person AI-assisted creative publication; AI finds, researches, verifies and prepares; Bill selects, filters and directs.
@@ -67,7 +100,7 @@ Chronological development journal. **Most recent first.** This records experimen
 ## 2026-11-26 — Daily research experiment configured
 
 **From:** ChatGPT and Bill Ho  
-**Date:** November 26, 2026 (project setup date; precise cross-zone timestamp not recorded in this log).  
+**Date:** 2026-11-26 (UTC+8 project setup date). The corresponding PST and EST calendar dates and precise times are **unresolved** from the available record. Time zones: UTC+8 / PST (UTC−8) / EST (UTC−5).  
 **Status:** Daily **18-candidate** research shortlist configured in ChatGPT; **no autopublishing**.
 
 - **Experiment:** Start with 18 researched stories per day, aiming eventually for **eight strong selections**.
