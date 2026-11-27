@@ -61,33 +61,46 @@ These are **research references**, not brand or format templates. Their audience
 
 The eventual goal is **eight strong stories a day**, but the current research output is 18 candidates. Production cadence and monetization remain open.
 
-## File organization
+## File organization — verified Beta 01 locations (2026-11-28 HKT)
 
-The local master is `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`. Beta 01 lives in `FUTURE MAGAZINE 000 beta 01/` under that root. Use the existing structure:
+**The only local master project root:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`  
+**Beta 01 issue root:** `FUTURE MAGAZINE 000 beta 01/`
 
-- `00_BRAND_ASSETS` at the project root holds official logos and reusable brand resources.
-- `01_EDITORIAL` in each issue holds the Markdown editorial master, headlines, captions, sources and platform copy. The Beta 01 editorial master is `FUTURE_MAGAZINE_BETA_01_EDITORIAL.md`.
-- `02_LOVART_MOCKUPS` holds working artwork, references and drafts.
-- `03_FINAL` holds Bill-approved PNGs, PDFs and other approved deliverables.
+Codex reported moving the files, inspecting their contents and **verifying the copies at the destinations below**. These are local Desktop paths supplied and confirmed by Bill/Codex; GitHub does not itself store these large artwork/PDF exports.
 
-1. Inspect the existing folders before saving. Use the Desktop master and its existing issue folders. Documents/ChatGPT and Downloads are temporary work locations.
-2. Save approved deliverables directly to their designated master folder. Keep one canonical final copy per deliverable and keep working files out of `03_FINAL`.
-3. After saving, verify the filename, destination, version, contents and duplicates. Report the actual saved path.
-4. Get Bill’s approval before overwriting, moving, deleting or trashing existing files, including temporary copies. Report misplaced files and duplicates before acting.
-5. Ask Bill before adding folders or reorganizing the project.
-
-## Platform exports and source links — current rules (2026-11-28 HKT)
-
-These decisions supersede older Beta 01 X advice. Keep a canonical, checked source URL for every story in `01_EDITORIAL`; platform presentation is separate from source preservation.
-
-| Platform / issue | Approved treatment |
+| Canonical relative location within Beta 01 | Contents and use |
 |---|---|
-| **X — Beta 01 exception** | **Keep the seven existing X images labeled `Source`.** Codex reported the earlier `Read the source` set was moved to Trash. Do not re-export or replace Beta 01 merely to remove the label. |
-| **X — future issues** | One image + one short caption per story, connected in **one thread**. **No `Source` label on the image and no separate source URL in post text**. Credit the source naturally in the caption where appropriate. Retain source URLs in the editorial archive for verification. |
-| **LinkedIn** | Each PDF page has a **clickable `Source` link** to the verified original article. When story links also appear in the accompanying LinkedIn post text, show the **full visible URL**; pasted Markdown publisher-label links did not stay clickable in Bill's test. |
-| **Files** | Save approved deliverables in the **main magazine project** first (`FUTURE MAGAZINE 000 beta 01/03_FINAL` for Beta 01). Make separate platform exports **only when necessary**. Keep **one final copy per deliverable**, archive working versions in their correct folders; ask Bill before deleting or consolidating existing files. |
+| `01_EDITORIAL/FUTURE_MAGAZINE_BETA_01_EDITORIAL.md` | Editorial master: headlines, full and short captions, platform copy and original article URLs. |
+| `01_EDITORIAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf` | **One final seven-page LinkedIn PDF** with clickable `Source` links. **This is the PDF to upload.** |
+| `01_EDITORIAL/X/Story-01-Source.png` … `Story-07-Source.png` | **Seven Beta 01 X images**, in story order, retaining the `Source` label. |
+| `01_EDITORIAL/X/Post-01.txt` … `Post-07.txt` | Seven corresponding **historical X drafts**, not proof of final approved/published copy; drafts still contain source URLs. |
+| `00_BRAND_ASSETS/` | Official FUTURE™ logo assets and fallback compositor, under the existing issue structure where present. |
+| `02_LOVART_MOCKUPS/` | Lovart drafts, working plates and layout experiments. |
+| `03_FINAL/` | Other specifically approved issue artwork as already filed; **do not assume the final LinkedIn PDF is here**. |
 
-**Layout lesson:** Bill dislikes the black caption footer in the Beta 01 LinkedIn PDF, even though its clickable source links work. **Do not redo Beta 01**; for future issues, design caption/source treatment inside the intended 4:5 system *before* full production. Test one complete page at phone size and verify links before batch export. A separate interior caption/source page is a **proposal**, not a locked decision.
+Codex reported that the now-empty X export folder in `Documents/ChatGPT` was removed. Three superseded PDFs, the prior `Read the source` X images, duplicate logos/PDF and obsolete ChatGPT handoff were moved to Trash. **No further file cleanup is authorized by this README.** The separate `FUTURE_MAGAZINE_001` folder is not Beta 01.
+
+### Mandatory file-handling rules for all agents
+
+1. **Inspect the existing Desktop master before creating or saving anything.** Use the actual established issue structure. Don't create a new parallel `Documents/ChatGPT`, Downloads or ad-hoc FINAL destination.
+2. **One canonical copy per final deliverable.** Platform-specific exports are created **only if needed**; keep working files, editorial text and approved exports in their established locations.
+3. **Verify after save**: actual filename, destination, version, contents and whether duplicates remain. Report the **real path**, not the intended path.
+4. **Ask Bill before overwriting, moving, trashing, deleting, renaming or reorganizing any existing files.** A request to check or document locations is not authorization to change local files.
+5. Explain unfamiliar computer tasks in **short, one-step-at-a-time instructions**, naming the actual controls.
+
+## Platform exports and source links — current decisions (2026-11-28 HKT)
+
+Keep the canonical **verified source URLs** in the editorial master regardless of how a platform displays them. Later decisions below supersede earlier exploratory Beta 01 directions.
+
+| Platform | Current decision |
+|---|---|
+| **LinkedIn / Beta 01** | Upload **`01_EDITORIAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`**. Each PDF page has a clickable `Source` link to its approved article. Use Bill's **final LinkedIn copy verbatim**; when including sources in post text, use **full visible URLs** (pasted Markdown publisher links did not survive). |
+| **X / Beta 01 exception** | Use `01_EDITORIAL/X/Story-01-Source.png` … `Story-07-Source.png`. **Retain the on-image `Source` labels.** Matching `Post-01.txt` … `Post-07.txt` are historical drafts **still containing URLs**, not automatically publication-ready. Confirm current draft and obtain approval before posting. |
+| **X / future issues** | One image plus one compact caption **per story**, all in one connected thread. **No on-image `Source` label; no separate source URL in the post.** Where suitable, credit the reporting source naturally in the caption; always archive the actual verified URL in the editorial master. |
+| **Design / future issues** | Beta 01 black caption footer worked functionally but Bill **dislikes the black bar**. **Keep the Beta 01 PDF unchanged.** For new issues, plan caption and discreet source placement within the **4:5 card** before designing; test a complete card at phone size before full batch export. A separate story page remains an option to evaluate, **not an approved default**. |
+| **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
+
+**Local workflow note:** `COVER_WORKFLOW.md` reportedly still describes an older cover/compositor process. **Flag it for alignment** before the next production cycle, but don't edit the local file without authorization.
 
 ## Visual development — provisional
 
