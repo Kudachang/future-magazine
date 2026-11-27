@@ -6,6 +6,78 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 (HKT) / 2026-11-27 (PST, EST) — BETA 01 production, publishing and lessons
+
+**From:** Bill Ho + ChatGPT (GPT-6), incorporating Codex and Lovart handoffs.  
+**Recorded:** 2026-11-28 **05:35 HKT** (UTC+8) / 2026-11-27 **13:35 PST** (UTC−8) / 2026-11-27 **16:35 EST** (UTC−5). Recording time, **not** claimed as the exact time of each preceding event.  
+**Status:** **Seven English cover artworks approved; Beta 01 production complete as an experiment, not a full magazine launch.** LinkedIn publishing has been discussed and revised; Bill reported putting a post on LinkedIn, but its latest live state and final PDF upload are **not independently verified here**. X thread assembled in a prior browser session, **publication status unverified**. Chinese edition and interior stories remain unfinished.
+
+### Executive result and editorial scope
+
+- **7/7 English covers** completed, in order: **01** T. rex leather handbag; **02** edible sugar chandelier; **03** gravitational messaging; **04** Visa visual identity; **05** Stone Island × *Blade Runner 2099*; **06** teenage-led GTA 6 PC fan project; **07** handmade advertising in an AI era. This is the selected output of Trial 001, **not** proof that the other eleven candidates were rejected.
+- **Visual system:** portrait 1080 × 1350 (4:5) full-bleed covers; tight Swiss-inspired grid; headline at upper left; story number and navigation label at top; original FUTURE™ logo at lower left. Final **Story 07 says `END OF BETA 01`** instead of `SWIPE FOR MORE →`. Retain `T. REX` as printed (standard abbreviated scientific styling; Bill opted not to change it).
+- **Creative ownership:** Bill selects stories, directs taste, approves visuals and publication. ChatGPT develops/verifies editorial copy and source inventory. **Lovart now handles the image plates, HTML/SVG type layout, and deterministic placement of the *real* FUTURE™ logo.** Codex can handle desktop filing, platform exports, checks and authorized browser tasks. **Do not automatically route final logo placement to Codex**: the earlier compositor is a backup, not the regular production step.
+- Lovart's `index.html` is a **layout/type-layer reference**, not the final standalone image deliverable. Its `<img>` plate assets are externally hosted; HTML alone may render without imagery if assets are inaccessible. The individual exported PNG/JPEG artwork contains the finished covers. Lovart used **Barlow Condensed as a DIN Pro substitute** in the beta HTML; the final typeface/metrics should be checked and production-standard DIN Pro used where properly available. Don't distribute font files.
+
+### Verified working files and handoff destinations (from Codex report; desktop not re-inspected in this log)
+
+Project root: `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/FUTURE MAGAZINE 000 beta 01/`
+
+| Folder | Use |
+|---|---|
+| `01_EDITORIAL` | Approved EN/CN headlines, full captions, platform copy, exact original source URLs, claims/rights notes. |
+| `02_LOVART_MOCKUPS` | Lovart development plates, alternate layouts, HTML proofs and working exports. |
+| `03_FINAL` | **Seven approved English cover PNGs (01–07)** and the approved LinkedIn document PDF. |
+| `00_BRAND_ASSETS` | Original official logo variants and backup compositor. |
+
+- **Current preferred LinkedIn PDF (Codex-reported):** `03_FINAL/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`. Seven pages, each with a short caption in a **black footer beneath the image** plus an embedded clickable **Source** link. Codex reported verifying the seven PDF links. **This supersedes** ChatGPT's original headline-only `FUTURE_MAGAZINE_BETA_01_LinkedIn_Carousel.pdf` and two other draft exports. The black-footer PDF **extends beyond 4:5**.
+- Codex reported moving three superseded PDFs to Trash, **not a deletion authorization for other files**. Duplicates deliberately retained for Bill's review: eight identical logo files in `FUTURE_LOGO_Fin` vs. `00_BRAND_ASSETS`; one duplicate final PDF in `/Users/billho/Documents/ChatGPT/FUTURE™/FUTURE Magazine Beta 01 - X`; and two *different* seven-image X export sets ('Read the source' vs. 'Source') plus seven older text drafts. **Ask Bill before deleting, rearranging or replacing anything.** The separate `FUTURE_MAGAZINE_001` folder is not the Beta 01 delivery folder.
+
+### Platform copy and publishing decisions
+
+**LinkedIn:** The approved long-form post begins **“FUTURE™ MAGAZINE — BETA 01 / Creativity in unexpected places.”**, contains all seven full captions and **visible complete source URLs** (plain Markdown-style `[Publisher](URL)` pasted into a normal LinkedIn post did **not** retain clickable targets in Bill's test). End with an understated “An evolving experiment under FUTURE™. More to come.” Use the current seven-page *Captioned_Source* PDF if publishing a LinkedIn document carousel. The PDF's **clickable Source labels** are *independent of* the visible URLs in LinkedIn post text; don't substitute one for the other or invent different article links. Bill handles publication manually. Bill mentioned Codex previously added a link; **its exact target/live state was not independently verified in this record**.
+
+**X:** The intended treatment is a **seven-post connected thread, one matching cover image and concise story-specific caption per post**, not one long text post or a PDF. Earlier ChatGPT drafts carried a verified original URL per story; a **later Codex handoff recommends no separate source URL or `Source` label on X images**, with sources preserved in `01_EDITORIAL`. These are **two documented approaches**; treat the later instruction as the working direction rather than silently mixing them. An earlier seven-post draft was assembled in Chrome but left unpublished *at that point*; its **current state is unverified**. Before posting, check attachments, copy, exact story order, actual status and any source-attribution needs; get Bill's explicit approval. X automatically shortens posted URLs through its platform if URLs are used.
+
+**Public voice:** Beta preview only; do **not** divulge FUTURE™'s internal AI production methods or position this as a how-to/tutorial. Minimal self-explanation; the work and stories lead. No official magazine launch, revenue claims or audience claims.
+
+### Seven canonical story sources — keep exact article identity
+
+1. T. rex handbag — https://www.vml.com/work/t-rex-leather
+2. Laila Gohar sugar chandelier — https://www.theguardian.com/food/2026/nov/23/brioche-armchairs-butter-sculptures-and-edible-chandeliers-meet-the-new-food-artists
+3. Gravity messaging — https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity
+4. Visa refresh — https://corporate.visa.com/en/sites/visa-perspectives/innovation/how-do-brands-stay-recognizable-as-the-world-changes.html
+5. *Blade Runner 2099* costume — https://costumedesignersguild.com/blade-runner-2099/
+6. GTA fan project — https://www.gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men/
+7. Handmade advertising trend — https://www.marketingdive.com/news/brands-turn-to-handmade-craft-handfuls-of-creators-for-holiday-season/875335/
+
+**Editorial safeguards:** The T. rex provenance/scientific claims remain disputed; don't claim recovered authentic dinosaur DNA. GTA is an attempted fan PC project, **not** an actual completed GTA 6 PC release or demonstrated AI recreation; Rockstar takedown was reported, not independently established here. Story 07's RIMOWA cover imagery is **not** documented by the broad Marketing Dive trend source; confirm the actual RIMOWA campaign and image rights separately. Story 05 uses a Michelle Yeoh film-related visual that Lovart reported as outpainted/altered; do not pass it off as an untouched film still. Recheck the Guardian article's date metadata, and distinguish source attribution from actual **reuse licensing**. Public-use image rights have **not** been cleared by this log.
+
+### What Bill learned / what must change in BETA 02
+
+**Bill's direct verdict:** He likes the original seven-image design but **is unhappy with the black caption bar** Codex added beneath each cover. The black-footer version is functional and has clickable sources, but compromises the composition and page aspect ratio; the earlier option with **white caption text over artwork** was rejected as cluttered. **Do not retrofit Beta 01 again**—the point is to learn, not keep redoing approved design.
+
+**Production requirements for next beta:**
+1. **Design the information architecture *before* making plates**: decide which surface carries headline, image, caption and source; specify whether each source is clickable in a PDF or only shown in the post body.
+2. **Keep a clean 4:5 1080 × 1350 cover** with dominant image/headline/logo; **no added black footer or bulky caption overlay**. Consider a dedicated **second/interior page per story** for captions and discreet clickable sources, rather than squeezing text onto the cover. This is a *recommended test*, not a final locked Beta 02 design.
+3. **Mock up one representative complete story at phone size**, including all required information and live PDF link behavior; obtain Bill's approval **before** producing a seven-story batch.
+4. Agree **platform-specific outputs** upfront: LinkedIn PDF carousel and accessible source links; X images + concise thread; English global / Chinese China. Don’t assume Markdown labels become links when pasted into LinkedIn. Verify actual click destinations and test exports.
+5. Preserve authentic/official logo and typographic consistency. Explicit font/rights checks and image provenance must happen before public publishing; AI should flag exceptions concisely, not invent permissions.
+6. Keep the workflow lean: **research → shortlist → approved EN/CN headline + caption + URLs → image/source inventory → one visual proof → Bill approval → Lovart bulk covers and logo → QA → Codex file/platform export as needed → Bill final approval/manual publication → GitHub log.** No duplicate tooling, surprise redesigns, unapproved publication or unnecessary bureaucratic steps.
+
+### Outstanding / next
+
+- **No new edits to Beta 01** merely to optimize citations or redesign its footer. Preserve exact approved version and archive editorial source copy.
+- Confirm the **actual LinkedIn live post, linked destination and final PDF use**, and verify whether the X draft has been published; **do not assume** a browser draft persists unchanged.
+- Review duplicates and alternate X exports with Bill before cleanup.
+- Chinese headline/layout and supporting interior stories remain separate unfinished work; approve new designs before batch production.
+- Update this log with *verified* publishing outcomes/metrics only, not assumed results.
+
+**Source of record:** Bill's Nov 27 discussion and direct design feedback; Lovart Nov 27 production handoff; Codex Beta 01 folder/LinkedIn/X handoff. Where desktop files, URLs or live publishing were not independently inspected, that limitation is stated above. This newest entry supersedes earlier “not approved” production-status statements *only for the seven English Beta 01 covers*, not for the full magazine project.
+
+---
+
+
 ## 2026-11-28 (Shanghai) / 2026-11-27 (Los Angeles and New York) — Platform copy and publishing workflow
 
 **Recorded** 2026-11-28 00:27 Asia/Shanghai (UTC+8) / 2026-11-27 08:27 PST (UTC−8) / 2026-11-27 11:27 EST (UTC−5).
