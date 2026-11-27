@@ -40,6 +40,28 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 **Tally:** 18 presented; **7 specifically discussed as interesting**; **11 with no explicit verdict**. This is **not** a 7/18 approval rate or a record of 11 rejections.
 
+### The other 11 stories — explicitly retained as unassessed
+
+These **were included in the 18-story research batch** but Bill did not give an explicit Keep/Pass/Maybe verdict. This table is deliberately separate so AI collaborators see both sides of the initial review. **Do not label them “failed,” “rejected,” “boring,” or “outside FUTURE™'s taste.”** Silence alone cannot establish why they weren't discussed.
+
+| # | Story shown | Observed response | What can actually be learned / next check |
+|---|---|---|---|
+| 01 | GTA 6's virtual Florida | No specific reaction recorded. | There was interest in a **different** GTA story (#11). Cannot conclude that all GTA/worldbuilding angles work, or that this angle failed. |
+| 02 | Gigi Borgese's hand-drawn internet imagery | No specific reaction recorded. | Analogue illustration topic remains untested; assess actual hero imagery and story hook next time. |
+| 03 | A.G. Cook's *Soulbreaker Codex* | No specific reaction recorded. | Music/graphic-design crossover remains untested; compare a concrete artifact or surprising angle with generic creative-process framing. |
+| 04 | Offcuts anti-doomscroll magazine | No specific reaction recorded. | Meta-editorial/publishing concept untested; no evidence of approval or disapproval. |
+| 05 | Jake Hollings's cut-paper artwork | No specific reaction recorded. | Physical craft is **not** ruled out: Bill liked sugar craftsmanship (#13). The specific visual/story packaging needs testing. |
+| 06 | Zero / Verve fossilised-technology branding | No specific reaction recorded. | Brand-identity work isn't ruled out: Bill questioned Visa (#16). Potential difference in personal relevance, visual hook or story is **hypothesis only**. |
+| 07 | Tapo camera/video-call device | No specific reaction recorded. | Product innovation not ruled out; determine what makes this device visually and conceptually surprising. |
+| 08 | Polyend Tracker software access | No specific reaction recorded. | Music-tool news untested; examine whether there is an unexpected creative application rather than a feature announcement. |
+| 09 | Groove OS on a low-cost synthesizer | No specific reaction recorded. | DIY music technology untested; compare visual demonstrations and the strength of its one-sentence hook. |
+| 12 | Backslanted typography | No specific reaction recorded. | Type-design experiment untested; original story/source and compelling visual need verification. |
+| 15 | Azzedine Alaïa's independent fashion calendar | No specific reaction recorded. | Fashion thinking untested; no evidence that the field or concept is outside the editorial scope. |
+
+**Process diagnostic, not a judgment of quality:** What **worked in Trial 001** was obtaining detailed signals on seven stories: extraordinary objects (#10, #13), provocative ideas needing visuals (#11, #14), an expert fact-check (#16), a better secondary angle (#17), and an explicitly affirmative but unexplained choice (#18). What **did not yet work** was collecting enough information to diagnose the other 11—or supplying strong, usable images and verified direct source links consistently. The experiment therefore shows **7 discussed / 11 unassessed**, not **7 successes / 11 failures**.
+
+**For future batches:** Keep all 18 entries in the record; ask only for fast Keep / Pass / Maybe signals where Bill feels like answering. Track **explicit Pass** separately from **No response**. Where Bill gives no reason, record *reason not provided*; any proposed explanation belongs under a separately labeled AI hypothesis, not under Bill's rationale.
+
 ### Subsequent headline and fact-check discussion on #10
 
 - Bill prefers Drip's **straightforward, conversational, immediately surprising** headline style over overly clever ad copy.
