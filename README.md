@@ -113,6 +113,8 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 | **Design / future issues** | Beta 01 black caption footer worked functionally but Bill **dislikes the black bar**. **Keep the Beta 01 PDF unchanged.** For new issues, plan caption and discreet source placement within the **4:5 card** before designing; test a complete card at phone size before full batch export. A separate story page remains an option to evaluate, **not an approved default**. |
 | **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
 
+**Instagram status:** Not yet published/tested for Beta 01. Review the Instagram-specific navigation, format, copy and exports with Bill when he returns. Do not start production or publishing without approval. Do not copy X thread navigation to Instagram by assumption.
+
 **Legacy workflow retired:** Root `COVER_WORKFLOW.md` was moved to Trash; its superseded compositor and `FUTURE_MAGAZINE_001` directions must not be used. The fallback script in `00_BRAND_ASSETS/` remains available if separately authorized.
 
 ## Roles and approval gates
