@@ -80,10 +80,25 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-26 — Daily research experiment configured
+
+**From:** ChatGPT and Bill Ho  
+**Discussion timestamp:** 2026-11-26 **01:06 UTC+8** / 2026-11-25 **09:06 PST** / 2026-11-25 **12:06 EST** (recorded setup discussion timestamp; not a guaranteed scheduler execution time).  
+**Status:** Daily **18-candidate** research shortlist configured in ChatGPT; **no autopublishing**.
+
+- **Experiment:** Start with 18 researched stories per day, aiming eventually for **eight strong selections**.
+- **Feedback:** Bill can select story numbers or say Keep/Pass/Maybe; no time-consuming critique required.
+- **Quality:** Distinct candidates, dated source references, verified facts, visual links, interesting editorial angles, clearly labeled uncertainty; avoid repetition unless there is a meaningful update.
+- **Development objective:** Improve the hit rate and reduce editorial/administrative burden, rather than maximize headline volume.
+
+**Source:** FUTURE MAGAZINE task setup and Bill's direct instructions, November 26, 2026.
+
+---
+
 ## 2026-11-25 — Evolving editorial references and operating hypothesis
 
 **From:** Bill Ho and ChatGPT  
-**Discussion date:** 2026-11-25 (UTC+8). Corresponding PST and EST dates and exact times are **unresolved** because the discussion's clock time is not documented. Time zones: UTC+8 / PST (UTC−8) / EST (UTC−5).  
+**Discussion-log timestamp:** 2026-11-25 **01:36 UTC+8** / 2026-11-24 **09:36 PST** / 2026-11-24 **12:36 EST** (the shared log's recorded conversation time; individual earlier references may predate it).  
 **Status:** Ongoing exploration.
 
 - **Operating experiment:** one-person AI-assisted creative publication; AI finds, researches, verifies and prepares; Bill selects, filters and directs.
@@ -94,21 +109,6 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 - **Brand direction:** FUTURE™'s editorial identity grows from Bill's creative direction; neither a personal diary nor an advertising trade publication.
 
 **Source:** Bill's evolving discussion notes and shared Instagram references, November 2026.
-
----
-
-## 2026-11-26 — Daily research experiment configured
-
-**From:** ChatGPT and Bill Ho  
-**Date:** 2026-11-26 (UTC+8 project setup date). The corresponding PST and EST calendar dates and precise times are **unresolved** from the available record. Time zones: UTC+8 / PST (UTC−8) / EST (UTC−5).  
-**Status:** Daily **18-candidate** research shortlist configured in ChatGPT; **no autopublishing**.
-
-- **Experiment:** Start with 18 researched stories per day, aiming eventually for **eight strong selections**.
-- **Feedback:** Bill can select story numbers or say Keep/Pass/Maybe; no time-consuming critique required.
-- **Quality:** Distinct candidates, dated source references, verified facts, visual links, interesting editorial angles, clearly labeled uncertainty; avoid repetition unless there is a meaningful update.
-- **Development objective:** Improve the hit rate and reduce editorial/administrative burden, rather than maximize headline volume.
-
-**Source:** FUTURE MAGAZINE task setup and Bill's direct instructions, November 26, 2026.
 
 ---
 
