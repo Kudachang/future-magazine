@@ -6,6 +6,37 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 HKT / 2026-11-27 PST and EST — Beta 01 verified Desktop consolidation and final platform decisions
+
+**Recorded:** 2026-11-28 **05:59 HKT (UTC+8)** / 2026-11-27 **13:59 PST (UTC−8)** / 2026-11-27 **16:59 EST (UTC−5)**. This is the documentation timestamp, not the precise time Codex performed the file moves.  
+**Source/status:** Bill's direct confirmation and Codex report of moved-and-verified local copies. **Authoritative current Beta 01 paths**, superseding earlier directory references in historical entries. The files themselves remain on Bill's Desktop; this update changes **GitHub documentation only**.
+
+### Current canonical file map
+
+**Only master:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`  
+**Issue:** `FUTURE MAGAZINE 000 beta 01/`
+
+- **Editorial source of truth:** `01_EDITORIAL/FUTURE_MAGAZINE_BETA_01_EDITORIAL.md`.
+- **Final LinkedIn PDF to upload:** `01_EDITORIAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`. Seven captioned pages, each with a **clickable `Source` label** pointing to the approved article. **Not** `03_FINAL/` (stale former location).
+- **Current Beta 01 X assets:** `01_EDITORIAL/X/Story-01-Source.png` through `Story-07-Source.png`; **keep the `Source` labels** for this beta.
+- **X draft text:** `01_EDITORIAL/X/Post-01.txt` through `Post-07.txt` — **historical drafts containing URLs**, not automatically current approved publishing copy.
+- **Working/brand folders:** Existing `02_LOVART_MOCKUPS/` for working plates, `00_BRAND_ASSETS/` for official logo/fallback compositor, `03_FINAL/` for other explicitly approved issue artwork (but **not** the current canonical LinkedIn PDF).
+- Codex **verified copies at these destination paths** and removed the **empty** former X export folder in `Documents/ChatGPT`. Codex reports moving to Trash: **three superseded PDFs**, older seven-image `Read the source` set, duplicate logo assets and PDF, and obsolete ChatGPT handoff. **Do not re-create, refile or restore these as alternate finals.** This log does not authorize further deletions.
+
+### Publishing and production decisions, final for this record
+
+- **LinkedIn:** Use the canonical PDF at `01_EDITORIAL/LinkedIn/`, with clickable `Source` on **every PDF page**. When copying Bill's approved long-form LinkedIn post, **preserve the final wording and use full visible original URLs** (not pasted Markdown anchor text).
+- **X / Beta 01 exception:** Seven regular thread posts, one corresponding image + one short caption each. Keep existing Beta 01 images labeled `Source`. The saved seven `Post-XX.txt` texts still contain URLs and are **historical drafts**; check them against current approval before publishing. **X posting status is not established by this file-cleanup report.**
+- **X / next issues:** Same one-image/one-short-caption-per-story thread format, **without** on-image `Source` and **without** a separate source URL in the social post. Attribute the source naturally in a caption where appropriate; preserve full verified references in editorial Markdown.
+- **Layout:** Leave Beta 01 as-is despite Bill's dissatisfaction with the **black footer**. In future, allocate space for a succinct caption and clickable source **within the 4:5 artwork**, approve one complete phone-size proof first, then export the batch. An additional story page is a possible experiment, not mandated.
+- **Lovart:** Image plate, typography/layout and **official FUTURE™ logo placement** are completed in Lovart; the outside compositor is an **emergency/backup**, not a required step. Codex flagged local `COVER_WORKFLOW.md` as still describing the older process. **Align it later when authorized**; no local edit performed here.
+- **File discipline:** Inspect Desktop master **before saving**; create separate platform exports only for genuinely different platform requirements; keep one canonical copy of each approved deliverable; verify actual saved destination/content, and report the path. **Ask Bill before overwriting, moving, trashing, renaming or restructuring existing files.** For unfamiliar tools, give short stepwise guidance.
+
+**Reference:** [README — verified file organization and platform rules](README.md#file-organization--verified-beta-01-locations-2026-11-28-hkt). Earlier entries below document historical decisions and formerly used paths; **they are not the current storage instructions**. Preserve them as development history.
+
+---
+
+
 ## 2026-11-28 HKT / 2026-11-27 PST, EST — Codex X/LinkedIn workflow correction (latest decision)
 
 **Recorded:** 2026-11-28 **05:41 HKT** (UTC+8) / 2026-11-27 **13:41 PST** (UTC−8) / 2026-11-27 **16:41 EST** (UTC−5). This is the **log entry time**, not an invented timestamp for the prior Codex action.  
@@ -44,10 +75,10 @@ Project root: `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/FUTURE MAG
 |---|---|
 | `01_EDITORIAL` | Approved EN/CN headlines, full captions, platform copy, exact original source URLs, claims/rights notes. |
 | `02_LOVART_MOCKUPS` | Lovart development plates, alternate layouts, HTML proofs and working exports. |
-| `03_FINAL` | **Seven approved English cover PNGs (01–07)** and the approved LinkedIn document PDF. |
+| `03_FINAL` | **Seven approved English cover PNGs (01–07)** and other final artwork as historically filed; **LinkedIn PDF subsequently moved to `01_EDITORIAL/LinkedIn/`**. |
 | `00_BRAND_ASSETS` | Original official logo variants and backup compositor. |
 
-- **Current preferred LinkedIn PDF (Codex-reported):** `03_FINAL/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`. Seven pages, each with a short caption in a **black footer beneath the image** plus an embedded clickable **Source** link. Codex reported verifying the seven PDF links. **This supersedes** ChatGPT's original headline-only `FUTURE_MAGAZINE_BETA_01_LinkedIn_Carousel.pdf` and two other draft exports. The black-footer PDF **extends beyond 4:5**.
+- **Historical LinkedIn PDF location (superseded; see newest entry):** `03_FINAL/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`. Seven pages, each with a short caption in a **black footer beneath the image** plus an embedded clickable **Source** link. Codex reported verifying the seven PDF links. **This supersedes** ChatGPT's original headline-only `FUTURE_MAGAZINE_BETA_01_LinkedIn_Carousel.pdf` and two other draft exports. The black-footer PDF **extends beyond 4:5**.
 - Codex reported moving three superseded PDFs to Trash, **not a deletion authorization for other files**. Duplicates deliberately retained for Bill's review: eight identical logo files in `FUTURE_LOGO_Fin` vs. `00_BRAND_ASSETS`; one duplicate final PDF in `/Users/billho/Documents/ChatGPT/FUTURE™/FUTURE Magazine Beta 01 - X`; and two *different* seven-image X export sets ('Read the source' vs. 'Source') plus seven older text drafts. **Ask Bill before deleting, rearranging or replacing anything.** The separate `FUTURE_MAGAZINE_001` folder is not the Beta 01 delivery folder.
 
 ### Platform copy and publishing decisions
