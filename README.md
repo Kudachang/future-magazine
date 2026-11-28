@@ -99,7 +99,9 @@ The canonical relative paths below were verified on the Desktop after Bill moved
 | `03_FINAL/X/Post-01.txt` … `Post-07.txt` | Seven corresponding **historical X drafts**, not proof of final approved/published copy; drafts still contain source URLs. |
 | `../00_BRAND_ASSETS/` (relative to Beta 01) | Shared official FUTURE™ logos and fallback compositor, located at **project root**, not inside Beta 01. |
 | `02_LOVART_MOCKUPS/` | Lovart drafts, working plates and layout experiments. |
-| `03_FINAL/` | Platform deliverables. Beta 01 has `LinkedIn/` for the final PDF and `X/` for images and their accompanying text files. The X text files retain their historical draft status. |
+| `03_FINAL/Instagram/` | Seven final Beta 01 Instagram cards in story order. |
+| `01_EDITORIAL/FUTURE_MAGAZINE_BETA_01_INSTAGRAM_CAPTION.txt` | Instagram caption and source credits. |
+| `03_FINAL/` | Platform deliverables, filed in their platform folders. |
 
 Codex reported that the now-empty X export folder in `Documents/ChatGPT` was removed. Three superseded PDFs, the prior `Read the source` X images, duplicate logos/PDF and obsolete ChatGPT handoff were moved to Trash. **No further file cleanup is authorized by this README.** The separate `FUTURE_MAGAZINE_001` folder is not Beta 01.
 
@@ -121,11 +123,12 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 |---|---|
 | **LinkedIn / Beta 01** | Upload **`03_FINAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`**. Each PDF page has a clickable `Source` link to its approved article. Use Bill's **final LinkedIn copy verbatim**; when including sources in post text, use **full visible URLs** (pasted Markdown publisher links did not survive). |
 | **X / Beta 01 exception** | Use `03_FINAL/X/Story-01-Source.png` … `Story-07-Source.png`. **Retain the on-image `Source` labels.** Some existing cover art also says `SWIPE FOR MORE →`; this cue is **not appropriate for an X thread** but **do not retrofit Beta 01 without approval**. Matching `Post-01.txt` … `Post-07.txt` are historical drafts **still containing URLs**, not automatically publication-ready. Confirm current draft and obtain approval before posting. |
+| **Instagram** | Use 4:5 cards (1080 × 1350) and select **Original** in the web composer. Credit each story’s source in the caption. Keep verified URLs in the editorial master. |
 | **X / future issues** | One image plus one compact caption **per story**, all in one **vertical thread**: readers **scroll down**, not swipe. Prefer small **`1/N`, `2/N`, … `N/N`** numbering made by Lovart using the actual story count; no `SWIPE FOR MORE →` or mandatory scrolling prompt. **No on-image `Source` label; no separate source URL in the post.** Credit the reporting source naturally in the caption where appropriate; archive the original verified URL in the editorial master. |
 | **Design / future issues** | Beta 01's black footer was functional, but Bill **dislikes the black bar and text outlines**. **Keep Beta 01 unchanged.** Lovart must **design a naturally integrated area for up to two short sentences** in the 4:5 image **before** production, without covering key imagery. Lovart handles headline, discreet **`1/N`** numbering and official logo; Codex inserts approved short body copy into the reserved area and creates clickable PDF source links. Test one complete card at phone size before batch export. A second story page remains optional, not mandatory. |
 | **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
 
-**Distribution roadmap:** Global English: LinkedIn, X and **Instagram (not yet tested/published)**. China: **Rednote/Xiaohongshu (小红书)** is a priority, with additional Chinese platforms considered selectively, **not** a blanket multi-platform rollout. Confirm each platform's current format/navigation, copy and link behavior before exports. Chinese content must be edited for the audience, not merely translated. Do not publish without approval.
+**Distribution roadmap:** Global English: LinkedIn, X and **Instagram**. China: **Rednote/Xiaohongshu (小红书)** is a priority, with additional Chinese platforms considered selectively, **not** a blanket multi-platform rollout. Confirm each platform's current format/navigation, copy and link behavior before exports. Chinese content must be edited for the audience, not merely translated. Do not publish without approval.
 
 **Legacy workflow retired:** Root `COVER_WORKFLOW.md` was moved to Trash; its superseded compositor and `FUTURE_MAGAZINE_001` directions must not be used. The fallback script in `00_BRAND_ASSETS/` remains available if separately authorized.
 
