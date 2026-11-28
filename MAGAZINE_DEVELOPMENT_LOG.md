@@ -6,6 +6,39 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 — Beta 01 Instagram published; layout and automation lessons
+
+**From:** Codex (Model: unknown)  
+**Recorded:** 2026-11-29 **04:37 HKT (UTC+8)** / 2026-11-28 **12:37 PST (UTC−8)** / 2026-11-28 **15:37 EST (UTC−5)**. This is the recording time.  
+**Status:** The seven-card Beta 01 carousel is live on [Instagram @future_lab_creative](https://www.instagram.com/future_lab_creative/p/DgTIGNikrDH/). Instagram confirmed publication. Threads was enabled at submission, but the post was not visible on the [Threads profile](https://www.threads.com/@future_lab_creative) when checked. Treat Threads as unconfirmed and check before retrying to avoid a duplicate.
+
+### What shipped
+
+- Seven numbered **1080 × 1350 (4:5)** PNGs in `FUTURE MAGAZINE 000 beta 01/03_FINAL/Instagram/`, named `FUTURE_BETA01_INSTAGRAM_01.png` through `_07.png`. Codex verified all seven dimensions and the filed files against the approved review set.
+- The Instagram caption is in `FUTURE MAGAZINE 000 beta 01/01_EDITORIAL/FUTURE_MAGAZINE_BETA_01_INSTAGRAM_CAPTION.txt`. The live caption includes the seven source credits and Bill's added `#Creativity`. Verified original article URLs stay in the editorial master. The account's Chrome composer showed no Add Link control and a test URL rendered as plain text. No raw URLs were used in the live caption.
+- Bill directed that the AI label remain off for this post, explaining that he designed it and found the images, with AI used in a supporting role to polish the visuals.
+
+### Layout and working with Bill and Lovart
+
+- Lovart prepared the artwork, shared **DIN Pro Bold** headline system, small `1/7–7/7` numbering and original logo. Codex placed **DIN Pro Regular** body copy and prepared the platform export. Bill approved the Story 01 phone-size proof before the remaining six were built.
+- The initial shared lower-left copy box collided with important imagery on four of the six remaining plates. Lovart revised the copy positions by plate while retaining the headline, numbering and logo system. Keep body type and alignment consistent, and use the actual image to decide where copy can sit. Confirm contrast and subject clearance on the rendered card. Story 04 uses dark type over its light ground. Story 06 gained a fourth copy line after Lovart extended the area upward over the purple ring. The tested second column was dropped because the rim and bright reflections crossed into it.
+- Bill caught two details the first checks missed. Story 01 needed both blocks from his reference, including “Real handbag. Disputed science. Wild idea.” Story 02's last line had been indented to avoid a petal. Bill preferred a clean left edge, so Codex moved the whole block to the clear left-side space under the headline, preserving the wording and type size. Bill approved the corrected full-size set.
+- Review a full card at **420 × 525** for feed-size readability, and label the individual **1080 × 1350** PNGs as the actual exports. Story 06's “MAYBE.” remained the weakest headline contrast over the sunset and was flagged during review.
+- In Instagram's web composer, select **Original** explicitly. The initial square preview would have cut into the design. Confirm portrait framing, file order and cross-post settings before sharing.
+
+### What to automate next
+
+- **Inputs:** Record the exact approved headline and body copy, story number, source, official logo variant and Lovart copy-area coordinates for each card. Keep the issue's files in the Desktop master. Record agreed design changes and their rationale in this log.
+- **Repeatable production:** Use Lovart's clean plates and deterministic DIN Pro placement. Check headline line widths if wording or breaks change, body-copy bounds, logo clearance, dimensions and sequence. Pair these checks with a phone-size visual review. A placement can pass brightness checks and still cover the subject.
+- **Handoff and export:** Monitor Lovart for a completed handoff or a real decision. This round recovered from an expired browser session using Lovart's standalone export page and individual export buttons. Prefer a verified download of each plate and check the files on disk before starting the copy pass.
+- **Approvals and verification:** Bill approves the first complete proof, material design changes, the caption and publication. Give short reports on progress or blockers. Verify each destination independently after sharing. Keep successful post links and record anything still unconfirmed.
+- **Measurement:** Bill plans periodic posts. Recommended test is to use the existing Instagram account for the beta series and log reach, saves, shares and follows for each carousel when Insights are available. Keep creative observations separate from measured audience response. No performance conclusion was drawn from this launch.
+- **Next platform:** Rednote follows Instagram. Bill's Rednote guide specifies **3:4 (1080 × 1440)** with naturally adapted Simplified Chinese. Treat it as its own layout and caption test.
+
+**Sources:** Bill's approvals and corrections, Lovart's revision and export handoff, verified Desktop files, and the live Instagram post linked above.
+
+---
+
 ## 2026-11-28 — Editorial standard, multilingual roadmap and Beta 02 production roles confirmed
 
 **Recorded:** 2026-11-28 **16:36 HKT (UTC+8)** / 2026-11-28 **00:36 PST (UTC−8)** / 2026-11-28 **03:36 EST (UTC−5)**. Recording time, not a claim about when individual decisions were made.  
