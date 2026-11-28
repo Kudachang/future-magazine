@@ -6,6 +6,25 @@ Chronological development journal, most recent first. Distinguish Bill's stated 
 
 ---
 
+## 2026-11-28 — Editorial standard, multilingual roadmap and Beta 02 production roles confirmed
+
+**Recorded:** 2026-11-28 **16:36 HKT (UTC+8)** / 2026-11-28 **00:36 PST (UTC−8)** / 2026-11-28 **03:36 EST (UTC−5)**. Recording time, not a claim about when individual decisions were made.  
+**Source:** Bill's direct review of Codex handoff and Finder screenshot. **Status:** README updated in GitHub and synchronized with the Desktop root README; no artwork or platform post altered.
+
+- **Authoritative instructions:** Read the **GitHub README first**; the Desktop root README is an intentionally synchronized offline fallback for any AI without GitHub access. GitHub development log records chronology; **Bill's latest direct instructions prevail**. Both README copies checked to match after update.
+- **Actual folder structure:** Root `00_BRAND_ASSETS/` (including backup `composite_cover.py`), `README.md`, and `FUTURE MAGAZINE 000 beta 01/` with `01_EDITORIAL/` (master Markdown, LinkedIn PDF, X PNGs and draft texts), `02_LOVART_MOCKUPS/`, and currently empty `03_FINAL/`. No reason to move established files. External compositor was an old Python logo-overlay stage; the standard process is now **Lovart embeds the official logo directly**.
+- **Editorial hook clarified:** Headline should be *immediately comprehensible*, yet the extraordinary **fact itself** provokes “Wow, that's crazy.” No manufactured mystery, cryptic teaser or unnecessary cleverness. Example: **A HANDBAG MADE OF T. REX LEATHER.** Surprise comes from the discovery, not from hiding what the story is about.
+- **Issue numbering:** Minimal `1/N`, `2/N` … `N/N` using **actual story count**; no fixed number and no “1 of 7” verbiage. Aim for **eight strong stories** and potentially a **weekly** edition when viable, but **quality over quantity**; the ongoing *18 daily research candidates* are a separate discovery workflow, **not** a requirement to publish eight daily stories.
+- **Visual/copy division:** **Lovart owns visual composition, headline typography, small `1/N` numbering and the real FUTURE™ logo.** Lovart should plan a clean, natural **maximum two-sentence space** in each 4:5 card **before composing**. **Codex** may write and insert Bill-approved short body copy in the reserved space, embed **working source hyperlinks** in PDFs, convert/export for platforms, file outputs and update the log. No black bottom bar, decorative text outline or haphazard overlays. Test one full card at phone size before bulk export. A **new Lovart brief** will be needed; no changes to Beta 01 now.
+- **Language/platform expansion:** English/global **LinkedIn, X, Instagram**; Chinese **Rednote/Xiaohongshu (小红书)** prioritized, with other China platforms assessed selectively rather than overexpanding. Chinese text is editorially adapted, not automatically translated verbatim. Instagram/Rednote formats and publishing are **not yet tested or authorized**; verify platform requirements before production.
+- **File discipline and approvals:** One Desktop project master, one canonical final copy; separate exports only when genuinely needed. Verify actual paths and contents. Ask before moving, trashing, overwriting, reorganization, publication or scheduling. When source files can answer a question, read them; when a material decision remains unclear, ask rather than guessing. For direct conversation, keep answers simple; formal three-zone timestamp headers are for cross-AI handoffs only.
+- **Existing approved Beta 01 assets and LinkedIn/X exceptions remain unchanged.** This is a future-facing workflow revision, not a new visual approval or publishing authorization.
+
+**Current operating specification:** [GitHub README](README.md); Desktop README is the synchronized local reference.
+
+---
+
+
 ## 2026-11-28 — X navigation correction; Instagram deferred
 
 **Recorded:** 2026-11-28 **06:17 HKT (UTC+8)** / 2026-11-27 **14:17 PST (UTC−8)** / 2026-11-27 **17:17 EST (UTC−5)**. Documentation time; not a claim about when earlier actions occurred.  
