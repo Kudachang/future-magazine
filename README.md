@@ -74,6 +74,14 @@ These are **research references**, not brand or format templates. Their audience
 
 **Research output:** 18 candidates per day for editorial selection. **Publication aspiration:** up to **eight strong stories per issue**, ideally weekly after launch *if there are eight worth publishing*. The actual count can vary: **quality over quantity**. Production cadence and monetization remain open.
 
+### Hashtag research for every issue
+
+Before preparing social copy, review every selected story and research relevant hashtags and search keywords for each intended platform. Cover the actual subjects, named creators, brands and projects, plus relevant specialist communities and related topics. Research English and Chinese terms separately. For Rednote/Xiaohongshu and other Chinese platforms, use the terms and topic labels people actually use there.
+
+- Check current platform search, topic suggestions and relevant recent posts where accessible. Verify each platform's hashtag limits and conventions at the time of preparation.
+- Build the broadest set of genuinely relevant tags each platform and post can support. Prioritize precise topic and community tags alongside useful broader tags. Skip unrelated trending tags and filler.
+- Save the researched tags and keywords in the issue's `01_EDITORIAL/` master, matched to the platform and to the individual story or issue-level post. Flag anything you could not verify, and include the suggested tags with the post copy for Bill's approval.
+
 ## File organization — verified Beta 01 locations (2026-11-28 HKT)
 
 **The only local master project root:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`
