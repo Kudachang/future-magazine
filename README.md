@@ -7,14 +7,14 @@
 
 ## START HERE — mandatory handoff checklist
 
-**Read this before any FUTURE™ MAGAZINE task.** This README defines current operating rules; the [development log](MAGAZINE_DEVELOPMENT_LOG.md) provides dated history. Bill's latest direct instruction overrides either document.
+**Read this GitHub README first before any FUTURE™ MAGAZINE task.** It is the **single authoritative operating guide**; keep the Desktop `README.md` as a **synchronized offline copy** for agents without GitHub access. The [development log](MAGAZINE_DEVELOPMENT_LOG.md) records dated history. Bill's latest direct instruction takes precedence if anything conflicts.
 
 1. **Locate the work:** inspect the **Desktop master** at `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/` and the correct issue subfolder *before* saving or editing. **Do not create a parallel project in Documents/ChatGPT or Downloads.**
 2. **Use the exact canonical deliverable paths in the file map below.** Do not assume everything final is in `03_FINAL`: **Beta 01's LinkedIn PDF and X exports are under `01_EDITORIAL/`.**
 3. **Respect approved content and platforms:** use the editorial master; preserve source URLs and facts. **Beta 01's X images retain `Source`; later issues do not.** LinkedIn PDF sources must be clickable.
-4. **Production:** ChatGPT/Codex for editorial and QA, **Lovart for covers and official logo**, Codex/desktop tools for file/export work only as needed. **Don't run the older compositor by default.**
+4. **Production:** Codex can research/write and handle copy placement, clickable sources, exports, filing and QA; **Lovart owns the visual composition, headline typography, subtle `1/N` numbering, and official logo**. Agree the copy-safe area before Lovart designs the plate. The old external logo compositor is backup only.
 5. **Before making changes to existing files, ask Bill** about moves, overwrites, deletion, Trash, renaming, folder reorganizations or publishing. Never treat a draft as approval.
-6. **After any permitted save, open/check the actual file**, verify its path, contents and version; report **what was verified** and anything still unverified. Never claim completion from an intended action.
+6. **After any permitted save, open/check the actual file**, verify its path, contents and version; report **what was verified** and anything still unverified. Synchronize the Desktop README after an approved GitHub README change. Never claim completion from an intended action.
 
 **Retired:** The obsolete Desktop `COVER_WORKFLOW.md` (old `FUTURE_MAGAZINE_001` + external compositor instructions) was moved to Trash on 2026-11-27 PST with Bill's approval. **This README is the active workflow.**
 
@@ -64,19 +64,21 @@ These are **research references**, not brand or format templates. Their audience
 
 ## Editorial and production workflow
 
-1. **Discover and verify.** ChatGPT prepares 18 distinct story candidates daily across a broad editorial range. For each, include a concise angle, a direct original-source URL, a visual or media link, the date, supporting sources where useful, and any verification gaps. Check dates, claims, and evidence of virality.
+1. **Discover and verify.** The assigned research AI (Codex or ChatGPT) prepares 18 distinct story candidates daily across a broad editorial range. For each, include a concise angle, a direct original-source URL, a visual or media link, the date, supporting sources where useful, and any verification gaps. Check dates, claims, and evidence of virality.
 2. **Select.** Bill marks candidates **Keep / Pass / Maybe** and may bring his own discoveries. Carry selected stories into editorial development. Record meaningful editorial decisions and treat individual choices as feedback.
-3. **Write and approve platform copy together.** Bill and ChatGPT (preferred for copywriting) or Codex draft and refine the cover headline and social post body copy for each intended platform. Use **English (EN) for global platforms** and **Chinese (CN) for China platforms**. Save the headline and caption together in `01_EDITORIAL`, labeled by platform and language. Bill approves both before the mockup starts.
-4. **Hand off to Lovart.** Send the approved headline for that platform and language, visual direction, and image references or approved assets. Keep the body copy in `01_EDITORIAL` for the social post caption. Use the working 1080 × 1350 DIN Pro grid, leave the lower-left logo area clear, and save Lovart exports in `02_LOVART_MOCKUPS`. Route any proposed headline changes back to Bill for approval.
-5. **Finish the cover and official logo in Lovart.** Use Bill's original FUTURE™ logo variant, placed deterministically in Lovart's HTML/SVG layout, and export approved images to `03_FINAL`. The earlier external logo compositor is a fallback, not a required production step; do not add a second logo.
+3. **Write and approve platform copy.** Codex and/or ChatGPT draft with Bill; Codex can own editorial work end to end. Prepare **English for global platforms** and **properly adapted Chinese for Rednote/Xiaohongshu and other selectively chosen China platforms**—not literal translation. Save approved headlines, one-/two-sentence story copy, longer captions and original URLs together in `01_EDITORIAL`, labeled by language and platform. Bill approves before visual production.
+4. **Brief Lovart before layout.** Supply the approved attention-grabbing headline, visual direction, images/assets, actual story count, official logo and a **planned clean space for up to two short sentences of body copy** plus discreet source treatment if needed. Lovart handles the **art direction, headline typography, `1/N` numbering and logo**, not a last-minute caption bar. Test one 1080 × 1350 (4:5) page at phone size before batch production. Save working exports in `02_LOVART_MOCKUPS`; route text changes to Bill.
+5. **Finish the visual master in Lovart; prepare platform exports in Codex.** Lovart places the original FUTURE™ logo and the approved headline/numbering. Codex places **approved short body copy** into the reserved area, adds **actual clickable source links** in PDFs where required, and creates platform-specific PNG/PDF exports without redesigning the image. Use the existing issue folder map, **not an assumed `03_FINAL` location**. The external logo compositor is fallback only; never add a duplicate logo.
 6. **Get Bill's final review.** Present the branded artwork and its matching approved caption together for each intended platform. Check that the headline matches the approved copy, the language matches the platform, and the headline and logo read at phone size. Bill approves each artwork and caption pair for publication.
 7. **Bill publishes manually.** Bill personally posts the approved artwork and matching caption on each intended platform. AI collaborators hand off the approved materials and stop there.
 
-The eventual goal is **eight strong stories a day**, but the current research output is 18 candidates. Production cadence and monetization remain open.
+**Research output:** 18 candidates per day for editorial selection. **Publication aspiration:** up to **eight strong stories per issue**, ideally weekly after launch *if there are eight worth publishing*. The actual count can vary: **quality over quantity**. Production cadence and monetization remain open.
 
 ## File organization — verified Beta 01 locations (2026-11-28 HKT)
 
-**The only local master project root:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`  
+**The only local master project root:** `/Users/billho/Desktop/FUTURE _PROJECTS/FUTURE MAGAZINE/`
+
+**Documentation hierarchy:** GitHub `README.md` is authoritative; the Desktop root `README.md` must match as a portable/offline reference for another AI. If they differ, compare, flag and synchronize the Desktop copy to the approved GitHub version. Do **not** create a competing local policy.  
 **Beta 01 issue root:** `FUTURE MAGAZINE 000 beta 01/`
 
 The Desktop folder listing was **inspected directly in this session** and confirms the canonical relative paths below (as well as Codex's earlier report). GitHub documents the workflow; the artwork and PDF remain on Bill's Desktop.
@@ -103,25 +105,27 @@ Codex reported that the now-empty X export folder in `Documents/ChatGPT` was rem
 
 ## Platform exports and source links — current decisions (2026-11-28 HKT)
 
+**Navigation for future issues:** Prefer minimal **`1/N` … `N/N`** where `N` is the actual number of stories (e.g., `1/7`–`7/7` or `1/8`–`8/8`). Do **not** use explanatory `1 of 7`, swipe or scroll commands by default. Lovart designs the numbering into the master layout, with platform differences tested first. No retroactive Beta 01 edits without approval.
+
 Keep the canonical **verified source URLs** in the editorial master regardless of how a platform displays them. Later decisions below supersede earlier exploratory Beta 01 directions.
 
 | Platform | Current decision |
 |---|---|
 | **LinkedIn / Beta 01** | Upload **`01_EDITORIAL/LinkedIn/FUTURE_MAGAZINE_BETA_01_Captioned_Source.pdf`**. Each PDF page has a clickable `Source` link to its approved article. Use Bill's **final LinkedIn copy verbatim**; when including sources in post text, use **full visible URLs** (pasted Markdown publisher links did not survive). |
 | **X / Beta 01 exception** | Use `01_EDITORIAL/X/Story-01-Source.png` … `Story-07-Source.png`. **Retain the on-image `Source` labels.** Some existing cover art also says `SWIPE FOR MORE →`; this cue is **not appropriate for an X thread** but **do not retrofit Beta 01 without approval**. Matching `Post-01.txt` … `Post-07.txt` are historical drafts **still containing URLs**, not automatically publication-ready. Confirm current draft and obtain approval before posting. |
-| **X / future issues** | One image plus one compact caption **per story**, all in one **vertical thread**: readers **scroll down** to the next post, not swipe left. **Do not use `SWIPE FOR MORE →` or similar carousel navigation on X images**; any X navigation cue must match scrolling/thread behavior. **No on-image `Source` label; no separate source URL in the post.** Credit the reporting source naturally in the caption where appropriate; archive the original verified URL in the editorial master. |
-| **Design / future issues** | Beta 01 black caption footer worked functionally but Bill **dislikes the black bar**. **Keep the Beta 01 PDF unchanged.** For new issues, plan caption and discreet source placement within the **4:5 card** before designing; test a complete card at phone size before full batch export. A separate story page remains an option to evaluate, **not an approved default**. |
+| **X / future issues** | One image plus one compact caption **per story**, all in one **vertical thread**: readers **scroll down**, not swipe. Prefer small **`1/N`, `2/N`, … `N/N`** numbering made by Lovart using the actual story count; no `SWIPE FOR MORE →` or mandatory scrolling prompt. **No on-image `Source` label; no separate source URL in the post.** Credit the reporting source naturally in the caption where appropriate; archive the original verified URL in the editorial master. |
+| **Design / future issues** | Beta 01's black footer was functional, but Bill **dislikes the black bar and text outlines**. **Keep Beta 01 unchanged.** Lovart must **design a naturally integrated area for up to two short sentences** in the 4:5 image **before** production, without covering key imagery. Lovart handles headline, discreet **`1/N`** numbering and official logo; Codex inserts approved short body copy into the reserved area and creates clickable PDF source links. Test one complete card at phone size before batch export. A second story page remains optional, not mandatory. |
 | **Lovart** | Finish the cover **and apply the original official FUTURE™ logo in Lovart**. The external compositor is fallback only; avoid a second logo-compositing pass. |
 
-**Instagram status:** Not yet published/tested for Beta 01. Review the Instagram-specific navigation, format, copy and exports with Bill when he returns. Do not start production or publishing without approval. Do not copy X thread navigation to Instagram by assumption.
+**Distribution roadmap:** Global English: LinkedIn, X and **Instagram (not yet tested/published)**. China: **Rednote/Xiaohongshu (小红书)** is a priority, with additional Chinese platforms considered selectively, **not** a blanket multi-platform rollout. Confirm each platform's current format/navigation, copy and link behavior before exports. Chinese content must be edited for the audience, not merely translated. Do not publish without approval.
 
 **Legacy workflow retired:** Root `COVER_WORKFLOW.md` was moved to Trash; its superseded compositor and `FUTURE_MAGAZINE_001` directions must not be used. The fallback script in `00_BRAND_ASSETS/` remains available if separately authorized.
 
 ## Roles and approval gates
 
 - **Bill:** final editor/Creative Director; selects stories and approves copy, design, file operations that alter existing material, and publication.
-- **ChatGPT / Codex:** fact-check, draft agreed editorial variants, maintain the source inventory and production log; inspect before editing. Codex may assist with file management and platform exports when authorized.
-- **Lovart:** produces artwork, typography and deterministic **official logo** placement. Do not add a second logo or regenerate its text in an image tool.
+- **Codex (primary operator) / ChatGPT (optional collaborator):** research, fact-check, craft headlines and copy, preserve source URLs, organize and verify files, prepare platform versions, embed PDF links and update GitHub records when approved. Codex owns body-copy placement in Lovart's reserved area; no need to switch AIs for routine editorial work.
+- **Lovart:** art direction, strong visual master, **headline typography, understated `1/N` numbering and original official logo placement**; design an intentional readable area for up to two sentences of Codex-placed copy. Avoid separate black bars or outlined body text. Do not add a second logo or regenerate lettering in a raster image tool.
 - **Every AI:** read the master README and current issue's editorial master; save only in the canonical location; label drafts vs finals; check working links, phone-size readability, source/image rights and the final export before handoff. **Never assume a page is published because a draft is assembled.**
 
 ## Visual development — provisional
@@ -129,8 +133,8 @@ Keep the canonical **verified source URLs** in the editorial master regardless o
 - **Candidate master carousel ratio:** **4:5 portrait (1080 × 1350 px)** for Instagram; evaluate platform-specific alternatives for Rednote and other channels. Earlier square and 3:4 possibilities were discussed but not selected.
 - **Typography:** **DIN Pro**, consistent with FUTURE™'s existing visual work.
 - **Identity:** Use Bill's **official FUTURE™ logo artwork**, never AI-invented replacements. The Mac production folder contains the original transparent black, white, and chrome-F cover variants.
-- **Cover:** Strong actual project imagery, a concise hook and clear editorial hierarchy.
-- **Supporting cards:** Add substance without turning the story into a text-heavy article.
+- **Cover/headline:** Let **the extraordinary fact deliver the surprise**: immediately understandable, visually impactful, a genuine *“wow, that's crazy”* moment. **Do not manufacture mystery** or force readers to decode a clever teaser before understanding the story. The twist is in the news, not in confusing wordplay. Strong project imagery and clear editorial hierarchy.
+- **Supporting story copy:** At most **two short sentences on the visual card** where the approved format needs it, in the area designed by Lovart. Longer text may stay in the platform caption or be tested on a separate page; avoid clutter and decorative outlines.
 - **Template:** Bill may supply the first master card. AI should then extract a repeatable production system, test it and refine it under Bill's direction. The seven **Beta 01 English covers were approved**, but no permanent cross-issue design system is locked.
 - **Media rights:** AI should identify provenance, reuse permissions and feasible alternatives. Attribution is not permission. An AI-generated concept image must not be passed off as documentary evidence.
 
